@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pokédex App
 
 Aplicación web tipo Pokédex desarrollada con **React**, **TypeScript**, **Vite** y **Axios**, consumiendo datos reales desde [PokéAPI](https://pokeapi.co/).
@@ -131,3 +132,6 @@ Elegí combinar estas funcionalidades porque ofrecen la mejor experiencia de usu
 - El proyecto usa el tema oscuro como diseño principal.
 - Los favoritos se almacenan en `localStorage` con la clave `pokedex-favorites`.
 - No incluye la carpeta `node_modules` en la entrega.
+=======
+# pokedex
+>>>>>>> 384167633ddf5a2aa2a04050848ce73e9ad6d1e9
