@@ -81,9 +81,6 @@ src/
 - **PokéAPI** como fuente de datos
 - **CSS moderno** con variables, grid, flexbox, animaciones y glassmorphism
 
-## 📸 Capturas de Pantalla
-
-*(Agrega aquí las capturas de tu aplicación funcionando)*
 
 ## 💭 Preguntas de Reflexión
 
